@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7cd7aac1.chunk.css",
+    "main.js": "/static/js/main.eea547eb.chunk.js",
+    "main.js.map": "/static/js/main.eea547eb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8273fb3a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8273fb3a.js.map",
+    "static/js/2.4def8832.chunk.js": "/static/js/2.4def8832.chunk.js",
+    "static/js/2.4def8832.chunk.js.map": "/static/js/2.4def8832.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7cd7aac1.chunk.css.map": "/static/css/main.7cd7aac1.chunk.css.map",
+    "static/js/2.4def8832.chunk.js.LICENSE.txt": "/static/js/2.4def8832.chunk.js.LICENSE.txt",
+    "static/media/404.1b3eec37.svg": "/static/media/404.1b3eec37.svg",
+    "static/media/cv.d03c422c.pdf": "/static/media/cv.d03c422c.pdf",
+    "static/media/gerardo_villegas.ccbcbb6f.jpg": "/static/media/gerardo_villegas.ccbcbb6f.jpg",
+    "static/media/header_background.8e8ad6c4.jpg": "/static/media/header_background.8e8ad6c4.jpg",
+    "static/media/project_1.3ef88f85.png": "/static/media/project_1.3ef88f85.png",
+    "static/media/project_2.b8f81210.png": "/static/media/project_2.b8f81210.png",
+    "static/media/project_3.a2bf5794.png": "/static/media/project_3.a2bf5794.png",
+    "static/media/project_4.0e052078.png": "/static/media/project_4.0e052078.png",
+    "static/media/project_5.73114177.png": "/static/media/project_5.73114177.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8273fb3a.js",
+    "static/js/2.4def8832.chunk.js",
+    "static/css/main.7cd7aac1.chunk.css",
+    "static/js/main.eea547eb.chunk.js"
+  ]
+}
